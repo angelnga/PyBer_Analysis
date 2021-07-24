@@ -34,7 +34,7 @@ All three cities remain constant in early 4 months of 2019. There are not much i
 Business recommendations to the CEO for addressing any disparities among the city types:
 1. Increase drivers in Rural to fulfill riders' need in order to lower the fare per ride due to supply and demand. Average rides become more affordable could help expanding the market.
 2. Rural generate the highest average fare per ride, expand the market could bring in more profit. 
-3. Drivers in Urban is more than riders. Increase marketing budget targeting urban riders could bring in higher profit and average fare by drivers.
+3. Drivers in Urban is more than riders. Increase marketing budget targeting urban riders could bring in higher income for the Pyber and drivers.
 
 
 
