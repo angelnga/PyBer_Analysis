@@ -29,7 +29,7 @@ Perform an exploratary analysis for a ride sharing app, Pyber. Create serval typ
 All three cities remain constant in early 4 months of 2019. There are not much increase in revenue after March. Adjust might be needed for further improve. 
 
 
-### Summary
+## Summary
 
 Business recommendations to the CEO for addressing any disparities among the city types:
 1. Increase drivers in Rual to fufill riders' need in order to lower the fare per ride due to supply and demand. Average rides become more affordable could help expanding the market.
