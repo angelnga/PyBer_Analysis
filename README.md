@@ -22,7 +22,7 @@ Perform an exploratary analysis for a ride sharing app, Pyber. Create serval typ
   4. Average Fare per Ride and per Driver: Rural has the highest fare in both result. There might be two possible reason:
      - Each ride is longer in Rural
      - Lack on driver leading in a higher fare. <br>
-  This can be proof by looking at the ratio between total riders and drivers. Every drivers in Rural has to serve 1.6 riders, Surburban is 1.27 riders, and Urban is 0.67 riders.
+  This can be proof by looking at the ratio between total riders and drivers. Every drivers in Rural has to serve 1.6 riders, Suburban is 1.27 riders, and Urban is 0.67 riders.
   
 ### Weekly Fares by City Type (Early 2019)
 ![summary table](analysis/challenge_fare_summary.png)
@@ -32,9 +32,9 @@ All three cities remain constant in early 4 months of 2019. There are not much i
 ## Summary
 
 Business recommendations to the CEO for addressing any disparities among the city types:
-1. Increase drivers in Rual to fufill riders' need in order to lower the fare per ride due to supply and demand. Average rides become more affordable could help expanding the market.
-2. Rual generate the highest average fare per ride, expand the market could bring in more profit. 
-3. Drivers in Urban is more than riders. Increase marketing budget targeting urban riders could bring in higher profir and avg fare by drivers.
+1. Increase drivers in Rural to fulfill riders' need in order to lower the fare per ride due to supply and demand. Average rides become more affordable could help expanding the market.
+2. Rural generate the highest average fare per ride, expand the market could bring in more profit. 
+3. Drivers in Urban is more than riders. Increase marketing budget targeting urban riders could bring in higher profit and average fare by drivers.
 
 
 
